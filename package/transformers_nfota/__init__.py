@@ -1,1 +1,1 @@
-from transformers import SelfAttention
+from package.transformers_nfota.transformers_nfota import Transformer, VisionTransformer

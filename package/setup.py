@@ -8,7 +8,7 @@
 from setuptools import setup
 
 setup(name='transformers_nfota',
-      version='0.4',
+      version='0.5',
       description='Various Transformer Models',
       long_description = 'Various Transformer Models',
       packages=['transformers_nfota'],
