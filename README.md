@@ -1,2 +1,2 @@
 # Transformers
- Package implementing Transformers
+ Package implementing Transformers in PyTorch
